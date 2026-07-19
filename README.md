@@ -82,7 +82,7 @@ Contains realtime stock chart and technical analysis of that stock. Used Trading
 
 ## Instructions to run the project:
 * Open the project in visual studio code
-* Open Mongodb Compass and connect to "mongodb+srv://JAMS:NEUWebDesignJAMS@stock.7r94bfe.mongodb.net/?* retryWrites=true&w=majority".
+* JAMS:NEUWebDesignJAMS@stock.7r94bfe.mongodb.net/?* retryWrites=true&w=majority".
 * Run "npm start" in the backend folder to start the backend API service.
 * Run "npm start" in the frontend folder.
 * You will be redirected to landing page of the project.
